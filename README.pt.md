@@ -48,6 +48,7 @@ Um programa interativo para adicionar, remover e listar itens de uma lista de co
 
 ### 6. **Jogo NIM**
 [`jogo_nim.py`](jogos/jogo_nim.py)
+Nim é um jogo de matemática combinatória em que dois jogadores se revezam removendo objetos de pilhas diferentes. Em cada turno, um jogador deve remover pelo menos um objeto e pode remover qualquer número de objetos, desde que todos sejam da mesma pilha.
 
 ---
 

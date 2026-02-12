@@ -48,6 +48,7 @@ Programa interactivo para agregar, eliminar y listar artículos de una lista de 
 
 ### 6. **Juego NIM**
 [`jogo_nim.py`](jogos/jogo_nim.py)
+Nim es un juego matemático combinatorio en el que dos jugadores se turnan para retirar objetos de distintos montones o pilas. En cada turno, un jugador debe retirar al menos un objeto y puede retirar cualquier número de objetos, siempre que todos provengan del mismo montón o pila.
 
 ---
 

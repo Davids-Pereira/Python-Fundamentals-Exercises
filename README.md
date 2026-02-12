@@ -50,6 +50,7 @@ An interactive program to add, remove, and list items in a shopping list.
 
 ### 6. **NIM Game**  
 [`jogo_nim.py`](jogos/jogo_nim.py)
+Nim is a combinatorial math game in which two players take turns removing objects from different piles. On each turn, a player must remove at least one object and can remove any number of objects, as long as they all come from the same pile.
 
 ---
 
