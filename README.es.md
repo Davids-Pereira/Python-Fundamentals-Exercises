@@ -46,6 +46,9 @@ Carga palabras desde un archivo externo si está disponible.
 [`lista_super.py`](lista_super/lista_super.py)  
 Programa interactivo para agregar, eliminar y listar artículos de una lista de compras.
 
+### 6. **Juego NIM**
+[`jogo_nim.py`](jogos/jogo_nim.py)
+
 ---
 
 ## 🧩 Requisitos

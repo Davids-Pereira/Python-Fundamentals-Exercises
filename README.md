@@ -47,6 +47,10 @@ A word-guessing game (similar to Hangman). Loads words in Portuguese from an ext
 ### 5. **Grocery List Manager**  
 [`lista_super.py`](lista_super/lista_super.py)  
 An interactive program to add, remove, and list items in a shopping list.
+
+### 6. **NIM Game**  
+[`jogo_nim.py`](jogos/jogo_nim.py)
+
 ---
 
 ## 🧩 Requirements
